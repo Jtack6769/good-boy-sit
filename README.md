@@ -1,5 +1,6 @@
 # good-boy-sit
-keeps retention-days low (3 to 7 days)ideal and ex caches or source maps so you never hit that wall again.! Keep out Repositoryies clean a beautiful. we all love here.
+Our new repository is ready to go let's all please try and keeps retention-days low (3 to 7 days)ideal and ex caches or source maps so you never hit that wall again.! Keep out Repositories clean a beautiful. we all live here.
+
 # setup-go
 
 [![Basic validation](https://github.com/actions/setup-go/actions/workflows/basic-validation.yml/badge.svg)](https://github.com/actions/setup-go/actions/workflows/basic-validation.yml)
