@@ -1,3 +1,5 @@
+https://github.com/temporalio/documentation-sdk-code-examples/blob/main/ruby-sandbox%2Fworkflows%2Fdynamic-workflow%2Fmy_dynamic_workflow.rb
+
 run-name: Deploy to ${{ inputs.deploy_target }} by @${{ github.actor concurrency:
   # This workflow uses         "ref_name": {
             "include": [
